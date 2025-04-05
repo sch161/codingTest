@@ -3,6 +3,5 @@
 #include <stdlib.h>
 
 int solution(int age) {
-    int answer = 2023 - age;
-    return answer;
+    return 2023 - age;
 }
